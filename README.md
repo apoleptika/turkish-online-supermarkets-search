@@ -15,11 +15,12 @@ This command search nothing because you forget to use search parameter  <br/>
 This command search bread (ekmek) on four supermarkets <br/>
  **c:\> python search.py -s ekmek** <br/><br/> 
 This command search 'coca cola' on four supermarkets <br/>
- **c:\> python search.py -s 'coca cola'** <br/><br/> 
+ **c:\> python search.py -s 'coca cola'** <br/>
 
 <picture>
     <img alt="Search product on online four Turkish supermarkets" src="https://github.com/apoleptika/turkish-online-supermarkets-search/blob/main/supermarkets-search.png">
 </picture>
+<br/>
 
 When search finished Python script opens Excel file that include products <br/>
 
