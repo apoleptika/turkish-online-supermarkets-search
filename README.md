@@ -9,7 +9,6 @@ Before start to using this Python app, you have to install Python and pip packag
  **c:\> pip install beautifulsoup4** <br/>
  **c:\> pip install selenium** <br/>
  **c:\> pip install openpyxl**<br/><br/>
-
 This command search nothing because you forget to use search parameter  <br/>
  **c:\> python search.py** <br/><br/>
 This command search bread (ekmek) on four supermarkets <br/>
