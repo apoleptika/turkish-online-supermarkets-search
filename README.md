@@ -28,4 +28,8 @@ When search finished Python script opens Excel file that include products <br/>
     <img alt="Search product on online four Turkish supermarkets and save in Excel file" src="https://github.com/apoleptika/turkish-online-supermarkets-search/blob/main/supermarkets-excel.png">
 </picture>
 
+This script shows the products that are on the first page yet. <br/>
+When there is a product on more than one page, it cannot reach all of them. <br/>
+In the future, I will solve this problem and add it to the script. <br/>
+
 Aldin Romanov Aldinov
